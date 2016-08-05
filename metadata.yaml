@@ -1,0 +1,33 @@
+_repo: Lucky-Pehr_8510
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Howard, Velma Swanston
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '4490'
+    url: http://www.gutenberg.org/2009/agents/4490
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PT'
+- GITenberg
+title: Lucky Pehr
+url: http://www.gutenberg.org/ebooks/8510
